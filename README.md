@@ -1,12 +1,10 @@
 # Eduard Danziger
 
-Software developer / software architect
-
-I build cross-platform technical software systems that combine native code, backend services, messaging, and web applications.
+I build cross-platform technical software systems with native code, backend services, messaging, and web applications.
 
 ## Current work
 
-I currently maintain the public **collect-sound-devices** solution domain, a cross-platform system for monitoring, transporting, storing, and visualizing audio endpoint device data.
+I currently maintain the public **[collect-sound-devices](https://github.com/collect-sound-devices)** solution domain, a cross-platform system for monitoring, transporting, storing, and visualizing audio endpoint device data.
 
 - **[win-sound-engine](https://github.com/collect-sound-devices/win-sound-engine)** native Windows sound engine in C/C++, with Go and C# frontends
 - **[win-sound-scanner-go](https://github.com/collect-sound-devices/win-sound-scanner-go)** Windows service in Go publishing device events to  RabbitMQ or Kafka

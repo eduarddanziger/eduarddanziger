@@ -1,9 +1,8 @@
 # Eduard Danziger
 
-Software developer / software architect  
-C++, C#, Go, TypeScript • Windows / Linux
+Software developer / software architect
 
-I work on technical software systems involving native code, backend services, messaging, and web applications.
+I build cross-platform technical software systems that combine native code, backend services, messaging, and web applications.
 
 ## Current work
 

@@ -13,10 +13,15 @@ flowchart LR
     Review -->|revise| Architecture
 ```
 
-### Goal 1 — Architecture
-Defines **who talks to whom, in what order**: agent roles, orchestrator vs. workers, and control flow pattern (sequential, hierarchical, or blackboard). Tool-agnostic.
+### Architecture
+Goal: Create **agent topology**<br>
+that defines **who talks to whom, in what order**:
+- agent roles
+- orchestrator vs. workers
+- and control flow pattern (sequential, hierarchical, or blackboard). Tool-agnostic.
 
-### Goal 2 — Tool Stack
-Maps the architecture onto **concrete tools** (frameworks, models, platforms) that implement it. An implementation mapping, not a redesign.
+###  Tool Stack
+Goal: Maps the architecture onto **concrete tools** (frameworks, models, platforms) that implement it. An implementation mapping, not a redesign.
 
-Review is a design critique of the protocol, not a code review of the output. It may send the process back to Goal 1 before returning to Goal 2.
+### Review
+Goal: Design critique of the protocol, not a code review of the output.<br>It may send the process back to Goal 1 before returning to Goal 2.
